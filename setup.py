@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 HERE = pathlib.Path(__file__).parent
 
 VERSION = '0.1.0'
-PACKAGE_NAME = 'test_util_package'
+PACKAGE_NAME = 'test_util_repo'
 AUTHOR = 'You'
 AUTHOR_EMAIL = 'ob95@me.com '
 URL = 'https://github.com/brandtoliver/test-util-repo'
